@@ -10,7 +10,7 @@ namespace Lesson_10
     {
         static void Main(string[] args)
         {
-            
+            //
             Console.WriteLine("Введите значение градуса");
             int gradus_ = Convert.ToInt32(Console.ReadLine());
 
